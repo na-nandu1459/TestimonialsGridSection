@@ -132,7 +132,7 @@ display: flex;
     line-height: 18px;
 }
 .text-xs{
-    font-size: 13px;
+    font-size: 14px;
 }
 /*media query*/
 @media (min-width:600px){
